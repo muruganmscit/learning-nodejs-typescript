@@ -21,3 +21,16 @@
   "ts-node": "^10.8.1",
   "typescript": "^4.7.4"
 }
+
+https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/
+https://devcenter.heroku.com/articles/node-memory-use
+https://github.com/bretcope/node-gc-profiler
+
+https://developer.okta.com/blog/2018/11/15/node-express-typescript
+https://codeburst.io/from-eslint-to-tslint-and-back-again-bf259c2e7437
+https://dev.to/sayanide/better-linting-with-typescript-and-custom-eslint-1cm0
+
+https://softwareontheroad.com/ideal-nodejs-project-structure/
+https://refactoring.guru/design-patterns/facade
+
+https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code
